@@ -1,0 +1,28 @@
+GroceryDash, a shopping list and routing app
+	1. Lists
+		1.1 Create shopping list
+		1.2 Store selection
+			1.2.1 Find all stores within range carrying all available items
+			1.2.2 Select store to route for
+			1.2.3 Select a store, and restrict adding items to list based on store availability
+		1.3 Add item to list
+		1.4 Remove item from list
+	2. Stores
+		2.1 Find stores within a range of user location
+		2.2 Select store
+	3. Item locating
+		3.1 Find item availability at all stores within range
+		3.2 Find item availability within selected store
+		3.3 Find item location within store
+	4. Routing
+		4.1 Find the shortest cycle from store entrance/exit which passes the location of all desired items
+		4.2 Display path
+	5. History 
+		5.1 View previous orders
+		5.2 Choose past orders to add to current list
+	6. Account
+		6.1	Create new account
+		6.2 Log in
+		6.3 Log out
+	7. Other
+		7.1 Adjust to display size as necessary
